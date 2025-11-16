@@ -1,0 +1,6 @@
+.venv
+.idea
+.env
+main/twitch_chat_irc.py
+7TV-Chrome
+__pycache__
